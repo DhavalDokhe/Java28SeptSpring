@@ -33,5 +33,4 @@ public class RegistrationController {
         }else
             return "Failed";
     }
-
 }
